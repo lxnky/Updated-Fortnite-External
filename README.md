@@ -1,13 +1,5 @@
-Features:                                                                                                                    
-[Aimbot]
-- Fov Size
-- Show Fov
-- Smoothness
-
-[Visuals]
-- Box & Filled Box
-- Lines
-- Distance
+# Download Build
+[Download](https://discord.gg/PkZBeMWFVm)
           
 # Discord
 Join my [discord server](https://discord.gg/PkZBeMWFVm) to get vcxproj files and undetected driver for this source
